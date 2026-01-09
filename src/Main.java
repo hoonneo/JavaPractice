@@ -4,4 +4,8 @@ void main() {
     System.out.println("hello world!!");
     System.out.println("HI");
 
+    for(int i=0;i<10;i++){
+        System.out.println(i);
+    }
+
 }
